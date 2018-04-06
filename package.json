@@ -1,0 +1,14 @@
+{
+  "name": "daily-wallpaper",
+  "version": "1.0.0",
+  "description": "Get the photo of the day from Unsplash.",
+  "main": "index.js",
+  "author": "Michael Savchuk",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "image-downloader": "^3.3.0",
+    "request": "^2.85.0",
+    "wallpaper": "^2.6.0"
+  }
+}

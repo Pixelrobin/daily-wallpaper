@@ -33,7 +33,7 @@ This was just a quick and dirty script for my needs, but maybe I'll take it furt
 * Make it into a CLI?
 
 ## Contributing
-Feel free to open up issues and make PRs if this is something
+Feel free to open up issues and make PRs if this is something you're interested in.
 
 ## Disclaimer
 This is not offically associated with Unsplash in any way. Things can and probably will break eventually.

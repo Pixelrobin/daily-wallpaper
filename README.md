@@ -14,7 +14,9 @@ cd wherever/you/want
 git clone https://github.com/Pixelrobin/daily-wallpaper.git
 cd daily-wallpaper
 npm install
-node index
 ```
 
-Currently only tested on windows.
+Then, to run once, simply do `node index` at the directory where everything was installed.
+This will perform the action once. In my use case I just set it up to run at startup for me.
+
+Currently only tested on windows, but should technically work on other platforms.

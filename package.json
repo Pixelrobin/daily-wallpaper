@@ -9,6 +9,6 @@
     "cheerio": "^1.0.0-rc.2",
     "image-downloader": "^3.3.0",
     "request": "^2.85.0",
-    "wallpaper": "^2.6.0"
+    "wallpaper": "4.1.0"
   }
 }
